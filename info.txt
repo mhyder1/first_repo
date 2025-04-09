@@ -4,8 +4,5 @@ THis is another line.
 
 more words
 
-<<<<<<< HEAD
 this is only in the another branch branch
-=======
 testing pull
->>>>>>> e840bb50f50309e921556eeddc51f5c2d1757287
